@@ -46,7 +46,7 @@ Aluno: Paulo Cesar Riveiro dos Santos Filho
 Este projeto é distribuído sob a licença MIT. Sinta-se livre para utilizar e modificar o código conforme necessário.
 
 🔗 Repositório mantido por Paulo Cesar Ribeiro dos Santos Filho
-📧 Contato: whats(https://wa.me/qr/FYV6HPYYOQJNJ1)
+📧 Contato: [whats](https://wa.me/qr/FYV6HPYYOQJNJ1)
 
 vbnet
 Copiar
