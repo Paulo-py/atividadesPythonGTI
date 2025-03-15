@@ -1,6 +1,6 @@
 # Introdução ao Python 🐍
 
-Este repositório contém atividades introdutórias de programação em Python, abordando conceitos fundamentais como tipos de dados, entrada e saída de dados e operações matemáticas básicas. Você encontra o aquivo PDF [aqui](https://github.com/Paulo-py/atividadesPythonGTI/blob/main/PDFs/Atividade%201.pdf)
+Este repositório contém atividades introdutórias de programação em Python, abordando conceitos fundamentais como tipos de dados, entrada e saída de dados e operações matemáticas básicas. Você encontra o aquivo PDF [aqui](https://github.com/Paulo-py/atividadesPythonGTI/blob/main/PDFs/Atividade%201.pdf) .
 
 ## 📚 Conteúdo  
 
